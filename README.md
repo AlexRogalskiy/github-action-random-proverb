@@ -10,8 +10,8 @@
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/github-action-random-proverb/discussions)
 
-[![DeepSource](https://deepsource.io/gh/AlexRogalskiy/github-action-random-proverb.svg/?label=active+issues\&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/github-action-random-proverb/?ref=repository-badge)
-[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16699/branches/363375/badge/grade.svg)](https://deepscan.io/dashboard#view=project\&tid=11946\&pid=16699\&bid=363375)
+[![DeepSource](https://deepsource.io/gh/AlexRogalskiy/github-action-random-proverb.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/github-action-random-proverb/?ref=repository-badge)
+[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16759/branches/365085/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11946&pid=16759&bid=365085)
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/github-action-random-proverb)
 ![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/github-action-random-proverb)
@@ -34,7 +34,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-random-proverb.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-random-proverb/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-random-proverb.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-random-proverb/context:javascript)
 
-[![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-random-proverb/branch/main/graph/badge.svg?token=ZiMgSTfzPv)](https://codecov.io/gh/AlexRogalskiy/github-action-random-proverb)
+[![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-random-proverb/branch/master/graph/badge.svg?token=sN03T2VTfV)](https://codecov.io/gh/AlexRogalskiy/github-action-random-proverb)
 [![CI](https://github.com/AlexRogalskiy/github-action-random-proverb/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/github-action-random-proverb/actions/workflows/build.yml)
 [![CircleCI](https://circleci.com/gh/AlexRogalskiy/github-action-random-proverb.svg?style=shield)](https://circleci.com/gh/AlexRogalskiy/github-action-random-proverb)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/github-action-random-proverb/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
