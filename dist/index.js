@@ -45909,7 +45909,7 @@ const valueError = (message, ...args) => {
 
 
 
-const octokit = new github.GitHub('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'); //getRequiredProperty('GITHUB_TOKEN'))
+const octokit = new github.GitHub(getRequiredProperty('GITHUB_TOKEN'));
 const getCommentId = async (options) => {
     const { repoOptions, resourceOptions: { requestId }, } = options;
     const { data: comments } = await octokit.issues.listComments({
@@ -45977,7 +45977,7 @@ const getOperationResult = async (sourceData) => {
     return await executeOperation(...params);
 };
 const runCommentOperation = async () => {
-    const sourceData = './data/sourceData.json' || 0;
+    const sourceData = getProperty('sourceData');
     await getOperationResult(sourceData);
 };
 async function run() {
