@@ -31,9 +31,9 @@
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-random-proverb.svg)](https://david-dm.org/AlexRogalskiy/github-action-random-proverb)
 [![devDependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-random-proverb.svg)](https://david-dm.org/AlexRogalskiy/github-action-random-proverb?type=dev)
 
+[![codebeat badge](https://codebeat.co/badges/00c81938-7852-49c4-ac3f-17b62bfd60b2)](https://codebeat.co/projects/github-com-alexrogalskiy-github-action-random-proverb-master)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-random-proverb.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-random-proverb/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-random-proverb.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-random-proverb/context:javascript)
-
 [![codecov](https://codecov.io/gh/AlexRogalskiy/github-action-random-proverb/branch/master/graph/badge.svg?token=sN03T2VTfV)](https://codecov.io/gh/AlexRogalskiy/github-action-random-proverb)
 [![CI](https://github.com/AlexRogalskiy/github-action-random-proverb/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/github-action-random-proverb/actions/workflows/build.yml)
 [![CircleCI](https://circleci.com/gh/AlexRogalskiy/github-action-random-proverb.svg?style=shield)](https://circleci.com/gh/AlexRogalskiy/github-action-random-proverb)
