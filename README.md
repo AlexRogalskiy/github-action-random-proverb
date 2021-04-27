@@ -31,6 +31,7 @@
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-random-proverb.svg)](https://david-dm.org/AlexRogalskiy/github-action-random-proverb)
 [![devDependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/github-action-random-proverb.svg)](https://david-dm.org/AlexRogalskiy/github-action-random-proverb?type=dev)
 
+[![Coverage Status](https://coveralls.io/repos/github/AlexRogalskiy/github-action-random-proverb/badge.svg?branch=master)](https://coveralls.io/github/AlexRogalskiy/github-action-random-proverb?branch=master)
 [![codebeat badge](https://codebeat.co/badges/00c81938-7852-49c4-ac3f-17b62bfd60b2)](https://codebeat.co/projects/github-com-alexrogalskiy-github-action-random-proverb-master)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/github-action-random-proverb.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-random-proverb/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/github-action-random-proverb.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/github-action-random-proverb/context:javascript)
