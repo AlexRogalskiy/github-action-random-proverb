@@ -56376,6 +56376,16 @@ module.exports = pump
 
 /***/ }),
 
+/***/ 2638:
+/***/ ((module) => {
+
+"use strict";
+
+module.exports = /^#!(.*)/;
+
+
+/***/ }),
+
 /***/ 4931:
 /***/ ((module, __unused_webpack_exports, __nccwpck_require__) => {
 
@@ -59812,7 +59822,7 @@ function coerce (version) {
 
 "use strict";
 
-var shebangRegex = __nccwpck_require__(2998);
+var shebangRegex = __nccwpck_require__(2638);
 
 module.exports = function (str) {
 	var match = str.match(shebangRegex);
@@ -59830,16 +59840,6 @@ module.exports = function (str) {
 		bin + (arg ? ' ' + arg : '')
 	);
 };
-
-
-/***/ }),
-
-/***/ 2998:
-/***/ ((module) => {
-
-"use strict";
-
-module.exports = /^#!.*/;
 
 
 /***/ }),
